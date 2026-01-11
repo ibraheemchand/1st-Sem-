@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std ;
+float main (){  //use float in place of int
+
+cout<< "          -------------------------------------------------------------\\"<<endl ;     
+cout<<"         //\\               ----------                                    \\" <<endl   //Removed semicolon
+cout<<"        //  \\             \\          \\                                    \\"<<endl ;
+cout<<"       //    \\             \\     O     \\                                   \\"<<endl ;
+cout<<"      //      \\             \\ _________ \\                                   \\"<<endl ;
+cout<<"     //        \\                                                             \\"<<endl ;
+cout<<"     ||---------||------------------------------------------------------------"<<endl ;
+cout<<"     ||         ||                                                            |"<<endl ;
+cout<<"     ||         ||                                                            |"<<endl ;
+cout<<"     ||         ||                                                            |"<<endl ;
+cout<<"     ||         ||                                                            |"<<endl ;
+cout<<"     ||         ||                                                            |"<<endl ;
+cout<<"     ||  ___    ||                                                            |"<<endl ;
+cout<<      || |   |   ||                                                            |"<<endl ;      //Removed double qoute//
+cout<"      || |  *|   ||                                                            |"<<endl ;      //Removed <//
+cout<<"     ||_________||___________________________________________________"<<endl ;
+
+ cout<<"Made by IBRAHEEM CHAND"\n<<endl ; //placed \n after double qoutes
+
+    return 0 ;
+}

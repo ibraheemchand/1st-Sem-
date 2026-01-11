@@ -1,0 +1,31 @@
+hello gggg i am good i hope you are also good
+cursion, what is the base case?
+a) The recursive call
+b) The condition that stops recursion
+c) The function parameter
+d) The return value
+What does 'static' do to a local variable in a function?
+a) Makes it global
+b) Retains its value between function calls
+c) Initializes it to zero
+d) Makes it constant
+
+Section B: Short Answer Questions (15 Marks)
+(Each question carries 3 marks. Answer briefly.)
+
+Explain the difference between 'if-else' and 'switch' statements with an example scenario where one is preferred over the other.
+Describe the compilation process from source code to machine code in C++. Include key steps like preprocessing and linking.
+What are reference variables in functions? Provide a code snippet showing how to pass a variable by reference and explain why it's useful.
+Explain exception handling in C++ using try-catch blocks. Give an example of handling a division by zero error.
+Compare recursive and iterative solutions for calculating the factorial of a number. Provide a brief code example for the recursive version.
+
+Section C: Programming Problems (25 Marks)
+(Solve the following problems by writing complete C++ code. Include necessary headers and use proper syntax.)
+
+(10 Marks) Write a C++ program that reads integers from the user until a negative number is entered (use a sentinel-controlled loop). Calculate and display the sum and average of the positive integers entered. Use a while loop for input validation to ensure only integers are accepted. Handle any potential exceptions for invalid input.
+(15 Marks) Create a menu-driven program using functions for the following operations:
+
+Function 1: Calculate Fibonacci sequence up to n terms using recursion.
+Function 2: Read data from a file "input.txt" (assume it contains numbers separated by spaces), compute their sum, and append the result to "output.txt".
+Function 3: Exit the program.
+Use a switch statement for the menu. Include file handling with error checking (e.g., if file doesn't open) and exception handling where appropriate.

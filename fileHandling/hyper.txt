@@ -1,0 +1,70 @@
+Hello bhai sahab
+C and C++ are general-purpose computer programming languages. They are closely related but with significant differences. This guide intends to showcase some of the features and differences of both languages in a user-friendly, progressive format. This is not a substitution for in-depth study, but should serve well as an introduction or a refresher.
+
+Inspired by Go By Example, Haskell By Example, Dart By Example and Javascript By Example.
+
+Check out the list of examples below to get started:
+
+Hello World
+Types
+Initialization
+Comments
+Switch
+Array
+Strings
+Functions
+For Loops
+While Loops
+Goto
+Integer Promotion
+Program Arguments
+Storage Class Specifiers
+Type Qualifiers
+Inline Functions
+Conditional If
+Ternary Operator
+Address Resolution Operator
+Dereference Operator
+Pointers
+Pointer Arithmetic
+Structs
+Union
+Input & Output
+Bitwise Operations
+Typedef
+Enumerations
+Variadic Functions
+Threads
+Mutex
+Heap Allocation
+Assertions
+Compound Assignment
+Project Structure
+Includes
+Compilation
+C++ only:
+
+Modules
+Pass by Reference
+Range
+Namespaces
+Classes
+Class Methods
+Constructors & Destructors
+Encapsulation
+Inheritance
+Polymorphism
+Friend Functions
+Templates
+Structured Bindings
+Lambda Expressions
+Exception Handling
+Programs:
+
+Linked List
+Binary Search Tree
+Copy a File
+Multithreaded Queue
+Hello World
+C17
+Hello bhai sahab
