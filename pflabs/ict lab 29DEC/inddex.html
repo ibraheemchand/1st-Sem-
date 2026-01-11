@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form onsubmit="return checkForm()">
+
+<input type="text" id="name"placeholder="Name"><br><br>
+<input type="email" id="email"placeholder="Email"><br><br>
+<button type="submit">Submit</button>
+
+</form>
+
+</body>
+<script>
+function checkForm(){
+    let name = document.getElementById("name").value;
+    let email = document.getElementById("email").value;
+
+    if(name===""){
+        alert("Please Enter Name");
+        return false;
+
+    }
+
+    if(email==="" && email){
+        alert("Please Enter Name");
+        return false;
+
+    }
+    else if(email.include("@")){
+        alert("Please Enter Valid email");
+        return false;
+    }
+
+    alert("Form submitted successfully");
+    return true;
+}
+</script>
+</html>
+

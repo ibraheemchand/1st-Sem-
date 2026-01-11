@@ -1,0 +1,5 @@
+starting Balance	42315Annual interst Rate :	33No. of Months :	5amount deposited	343434amount widhrawl	324Total deposits 343434	Total widhrawl 324	Net deposit 51750.5
+amount deposited	354534amount widhrawl	23434Total deposits 354534	Total widhrawl 23434	Net deposit 60855.8
+amount deposited	3.42322e+006amount widhrawl	23443Total deposits 3.42322e+006	Total widhrawl 23443	Net deposit 154350
+amount deposited	3234amount widhrawl	342432Total deposits 3234	Total widhrawl 342432	Net deposit 145022
+amount deposited	234345amount widhrawl	34234Total deposits 234345	Total widhrawl 34234	Net deposit 150525
